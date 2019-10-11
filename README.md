@@ -1,1 +1,1 @@
-# Story Book Node.js with Google oauth 2.0
+# Story Books Node.js with Google oauth 2.0
